@@ -1,0 +1,4 @@
+git remote add origin git@github.com:yayaZhang1002/githubDemo.git
+yayaZhang1002
+2749693049
+zy95102
